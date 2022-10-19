@@ -5,7 +5,6 @@
 *.o
 *.ko
 *.obj
-*.elf
 
 # Linker output
 *.ilk
@@ -44,7 +43,6 @@
 
 # Kernel Module Compile Results
 *.mod*
-*.cmd
 .tmp_versions/
 modules.order
 Module.symvers

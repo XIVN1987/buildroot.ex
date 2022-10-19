@@ -1,2 +1,2 @@
-# buildroot.ex
-Buildroot External for RK3308.
+# Buildroot External for RK3308.
+
